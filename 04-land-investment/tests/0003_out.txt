@@ -1,0 +1,4 @@
+Velikost mapy:
+Cenova mapa:
+Dotazy:
+Nespravny vstup.
