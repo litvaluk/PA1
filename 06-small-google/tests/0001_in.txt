@@ -1,17 +1,3 @@
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit.  
 Mauris dictum facilisis augue. Etiam neque. Morbi scelerisque id
 luctus id velit. Praesent id justo in neque elementum ultrices.
-lorem
-+
-ipsum
-
-ipsum
-lOrEm
-id
-um
-amet   consectetuer
-elit Mauris
-id    ,    luctus
-Etiam Morbi
-
-lorem ipsum

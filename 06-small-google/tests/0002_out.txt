@@ -1,0 +1,10 @@
+Text:
+Hledani:
+Nalezeno: 1
+Nalezeno: 2
+Nenalezeno
+Nenalezeno
+Nenalezeno
+Nenalezeno
+Nenalezeno
+Nalezeno: 1
