@@ -3,7 +3,7 @@
 ### My solutions to progtest homeworks in subject PA1, academic year 2017/18.
 
 
-Quite satisfied with the final result. Managed to finish every homework (harder variant). Down below, there are short czech descriptions of each assignment. If you are interested in full assignments and you are not from the university, please contact me.
+Quite satisfied with the final result. Managed to finish every homework (harder variant). Down below, there are short Czech descriptions of each assignment. If you are interested in full assignments and you are not from the university, please contact me.
 
  - **[1] Rovnoběžníky**
     
